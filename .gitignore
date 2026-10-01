@@ -1,2 +1,10 @@
-﻿*.zip
+# Build output: re-zip from source when publishing
+*.zip
+
+# Not part of this project (Break the Chain demo)
 demo.mp4
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
