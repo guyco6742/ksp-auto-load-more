@@ -16,7 +16,7 @@ A small Chrome extension that keeps loading products on [KSP](https://ksp.co.il)
 ## Install
 
 ### From the Chrome Web Store
-Coming soon.
+[Install Auto Load More for KSP](https://chromewebstore.google.com/detail/gijgoclfofhgefeienlchbkhbeepjoan) from the Chrome Web Store.
 
 ### From source
 1. Clone or download this repository.
